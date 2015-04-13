@@ -1,20 +1,37 @@
-# TreeQuencer - Collaborative Rhythm Sequencing 
-![Screen-shot of prototype 1](p1.png "Screen-shot of prototype 1")
-![Screen-shot of prototype 2](p2.png "Screen-shot of prototype 2")
-![User study](treequencer_happy.png "People using one of the prototypes at the evaluation (video feed)")
+# FugueGenerator - Collaborative Melody Composition using a Generative Affect Model
 
 This is the original source code for the prototypical rhythm sequencing application in the 
 publication:
 
-Klügel, Niklas, Gerhard Hagerer, and Georg Groh. "TreeQuencer: Collaborative Rhythm Sequencing-A Comparative Study"
+Klügel, Niklas, Gerhard Hagerer, and Georg Groh. "FugueGenerator - Collaborative Melody Composition Based on a Generative
+Approach for Conveying Emotion in Music"
 
 Abstract:
-In this contribution we will show three prototypical applications that allow users to collaboratively create rhythmic structures with successively more degrees of freedom to generate rhythmic complexity. By means of a user study we analyze the impact of this on the users’ satisfaction and further compare it to data logged during the experiments that allow us to measure the rhythmic complexity created.
+This paper exemplifies an approach for generative music
+software. Therefore new operational principles are used,
+i.e. drawing melody contours and changing their emotional
+expression by making use of valence and arousal. Known
+connections between music, emotions and algorithms out
+of existing literature are used to deliver a software experience
+that augments the skills of individuals to make music
+according to the emotions they want. A user-study lateron
+shows the soundness of the implementation in this regard.
+A comprehensive analysis of in-game statistics makes it
+possible to measure the music produced by testers so that
+connections between valence, arousal, melody properties
+and contours and emotions will be depicted. In addition,
+temporal sequences of reaction patterns between music making
+individuals during their creative interaction are made
+visible. A questionnaire filled out by the testers puts the
+results on a solid foundation and shows that the incorporated
+methods are appreciated by the users to apply emotions
+musically as well as for being creative in a free and
+joyful manner.
 
-which can be found here: http://nime2014.org/proceedings/papers/498_paper.pdf
 
-The TreeQuencer project itself consists of three prototypes that offer slightly different sequencing, you can select the respective prototype in Settings.txt , check the publication for further details about their differences.
-It is originally a tabletop application but the framework also allows use with mouse input apart from TUIO and native win7 touch.
+which can be found here: http://lodsb.org/fugue_generator_final.pdf , published in the proceedings of the ICMC2014
+
+FugueGenerator is originally a tabletop application but the framework also allows use with mouse input apart from TUIO and native win7 touch.
 
 Dependencies:
 - reakt: https://github.com/lodsb/reakt
