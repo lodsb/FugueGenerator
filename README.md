@@ -3,7 +3,7 @@
 This is the original source code for the prototypical rhythm sequencing application in the 
 publication:
 
-Klügel, Niklas, Gerhard Hagerer, and Georg Groh. "FugueGenerator - Collaborative Melody Composition Based on a Generative
+Klügel, Niklas and Hagerer, Gerhard and Groh, Georg. "FugueGenerator - Collaborative Melody Composition Based on a Generative
 Approach for Conveying Emotion in Music"
 
 Abstract:
